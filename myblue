@@ -1,0 +1,39 @@
+! special
+*.foreground:   #419fff
+*.background:   #020202
+*.cursorColor:  #419fff
+
+! black
+*.color0:       #0d141a
+*.color8:       #0d141a
+
+! red
+*.color1:       #d6eaff
+*.color9:       #d6eaff
+
+! green
+*.color2:       #6293c8
+*.color10:      #d6eaff
+
+! yellow
+*.color3:       #6293c8
+*.color11:      #d6eaff
+
+! blue
+*.color4:       #1d4e80
+*.color12:      #1d4e80
+
+! magenta
+*.color5:       #d6eaff
+*.color13:      #d6eaff
+
+! cyan
+*.color6:       #6293c8
+*.color14:      #d6eaff
+
+! white
+*.color7:       #6293c8
+*.color15:      #6293c8
+
+! vim: set filetype=xdefaults :
+

@@ -1,0 +1,57 @@
+! -----------------------------------------------------------------------------
+! File: gruvbox-dark.xresources
+! Description: Retro groove colorscheme generalized
+! Author: morhetz <morhetz@gmail.com>
+! Source: https://github.com/morhetz/gruvbox-generalized
+! Last Modified: 6 Sep 2014
+! -----------------------------------------------------------------------------
+
+#define hrd    #1d2021
+#define med    #282828
+#define sft    #32302f
+
+#define blk    #282828
+#define bblk   #928374
+#define red    #cc241d
+#define bred   #fb4934
+#define grn    #98971a
+#define bgrn   #b8bb26
+#define ylw    #d79921
+#define bylw   #fabd2f
+#define blu    #458588
+#define bblu   #83a598
+#define mag    #b16286
+#define bmag   #d3869b
+#define cyn    #689d6a
+#define bcyn   #8ec07c
+#define wht    #a89984
+#define bwht   #ebdbb2
+
+#define bg     hrd
+#define fg     bwht
+
+*.background:  bg
+*.foreground:  fg
+*.cursorColor: mag
+
+*.color0:      blk
+*.color8:      bblk
+*.color1:      red
+*.color9:      bred
+*.color2:      grn
+*.color10:     bgrn
+*.color3:      ylw
+*.color11:     bylw
+*.color4:      blu
+*.color12:     bblu
+*.color5:      mag
+*.color13:     bmag
+*.color6:      cyn
+*.color14:     bcyn
+*.color7:      wht
+*.color15:     bwht
+
+! vim: set filetype=xdefaults :
+
+! vim: set filetype=xdefaults :
+

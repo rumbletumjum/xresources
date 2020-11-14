@@ -1,0 +1,45 @@
+! Ayu Mirage colors - https://github.com/ayu-theme/ayu-colors
+#define color_base03   #1F2430
+#define color_base02   #292B30
+#define color_base01   #BFBAB0
+#define color_base00   #CBCCC6
+#define color_base0    #E6E1CF
+#define color_base1    #E6E1CF
+#define color_base2    #F28779
+#define color_base3    #FFFFFF
+#define color_yellow   #FFD580
+#define color_orange   #FFA759
+#define color_red      #FF3333
+#define color_magenta  #D4BFFF
+#define color_violet   #B48EAD
+#define color_blue     #77A8D9
+#define color_cyan     #95E6CB
+#define color_green    #BAE67E
+#define color_brown    #F29E74
+#define color_ltblue   #73D0FF
+#define color_ltgreen  #A6CC70
+#define color_ltyellow #FFE6B3
+#define color_ltcyan   #5CCFE6
+
+st.background:			color_base03
+st.foreground:			color_base0
+st.color0:            color_base03
+st.color1:            color_red
+st.color2:            color_ltgreen
+st.color3:            color_yellow
+st.color4:            color_blue
+st.color5:            color_violet
+st.color6:            color_cyan
+st.color7:            color_base00
+st.color8:            color_base01
+st.color9:            color_red
+st.color10:           color_green
+st.color11:           color_ltyellow
+st.color12:           color_ltblue
+st.color13:           color_magenta
+st.color14:           color_ltcyan
+st.color15:           color_base3
+! st.font:              typeface_terminal
+
+! vim: set filetype=xdefaults :
+

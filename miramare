@@ -1,0 +1,29 @@
+! Miramare
+! https://github.com/franbach/miramare
+
+! Special
+*background:    #2A2426
+*foreground:    #E6D6AC
+*cursorColor:   #89BEBA
+
+! black
+*color0:
+*color8:
+
+! red
+*color1:
+*color9:
+
+! green
+*color2:
+*color10:
+
+! blue
+*color3:
+*color11:
+
+
+
+
+! vim: set filetype=xdefaults :
+

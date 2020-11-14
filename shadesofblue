@@ -1,0 +1,22 @@
+*background: #000000
+*foreground: #779CBA
+
+*color0:    #0D141A
+*color1:    #C2D2DF
+*color2:    #779CBA
+*color3:    #779CBA
+*color4:    #324D63
+*color5:    #C2D2DF
+*color6:    #779CBA
+*color7:    #779CBA
+
+*color8:    #0D141A
+*color9:    #C2D2DF
+*color10:    #C2D2DF
+*color11:    #C2D2DF
+*color12:    #324D63
+*color13:    #C2D2DF
+*color14:    #C2D2DF
+*color15:    #779CBA
+! vim: set filetype=xdefaults :
+

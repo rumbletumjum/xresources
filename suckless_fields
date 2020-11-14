@@ -1,0 +1,105 @@
+! ┐ │┬─┐┬─┐┐─┐┌─┐┬ ┐┬─┐┌─┐┬─┐┐─┐
+! ┌┼┘│┬┘├─ └─┐│ ││ ││┬┘│  ├─ └─┐
+! ┆ └┆└┘┴─┘──┘┘─┘┆─┘┆└┘└─┘┴─┘──┘
+
+! General colors bright
+
+*background:                #E7E7D4
+*foreground:                #657B83
+
+! dwm colors bright
+
+dwm.normbordercolor:        #999999
+dwm.normbgcolor:            #E7E7D4
+dwm.normfgcolor:            #657B83
+dwm.selbordercolor:         #657B83
+dwm.selbgcolor:             #657B83
+dwm.selfgcolor:             #D4D4C1
+
+! Terminal colors
+
+URxvt*colorUL:              #657B83
+URxvt*cursorColor:          #657B83
+
+URxvt*cursorUnderline:      1
+URxvt*cursorBlink:          1
+
+URxvt*internalBorder:       8
+URxvt*matcher.button:       1
+URxvt*iso14755:             False
+URxvt*iso14755_52:          False
+
+URxvt*saveLines:            8000
+URxvt*scrollBar:            False
+URxvt*scrollColor:          #D4D4C1
+URxvt*scrollstyle:          plain
+URxvt*scrollTtyOutput:      False
+URxvt*scrollTtyKeypress:    True
+URxvt*secondaryScroll:      True
+URxvt*underlineURLs:        True
+URxvt*url-launcher:         /usr/local/bin/surf
+URxvt*matcher.pattern.1:    \\bwww\\.[\\w-]+\\.[\\w./?&@#-]*[\\w/-]
+URxvt*perl-ext:             default,matcher,resize-font
+
+! Xcolors
+
+!black
+*color0:    #E7E7D4
+*color8:    #079C91
+
+!red
+*color1:    #6F6F6F
+*color9:    #BFBFBF
+
+!green
+*color2:    #D7D7C4
+*color10:   #2AA198
+
+!yellow
+*color3:    #676767
+*color11:   #657B83
+
+!blue
+*color4:    #343434
+*color12:   #D2D2D2
+
+!magenta
+*color5:    #6D6D6D
+*color13:   #A5A5A5
+
+!cyan
+*color6:    #455B63
+*color14:   #A9A9A9
+
+!white
+*color7:    #657B83
+*color15:   #CFCFCF
+
+! Fonts
+
+!URxvt*font:             xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Book,\
+                        xft:Kochi Gothic:antialias=false
+!URxvt*boldfont:         xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Bold,\
+                        xft:Kochi Gothic:antialias=false
+!URxvt*italicfont:       xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Oblique,\
+                        xft:Kochi Gothic:antialias=false
+!Urxvt*bolditalicfont:   xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Bold Oblique,\
+                        xft:Kochi Gothic:antialias=false
+
+!Emacs*font:             xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Book
+!Emacs*boldfont:         xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Bold
+!Emacs*italicfont:       xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Oblique
+!Emacs*bolditalicfont:   xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Bold Oblique
+
+!URxvt*backgroundPixmap:     /home/geldmacher/.config/urxvtd/pixmap.png;style=tiled
+
+!fake transparency
+!URxvt*transparent: True
+!URxvt*shading: 30
+
+!real transparency
+!URxvt*depth: 32
+!URxvt*background: rgba:0000/0000/0200/f500
+
+! vim: set filetype=xdefaults :
+
